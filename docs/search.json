@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download current resume"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome!\nI work in quantitative finance and use R programming language. This website contains some of my personal projects, applications and visualizations."
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Presentation | Documetation\nThis is an R package. The objective of the fedz1 package is to provide easier access to Z1 data. The project is a web scrapping that brings more than twenty thousand datasets into one place. In addition to access to all data, users can use functions to explore tables, definitions, and the meaning of each series.(work in progress)"
+  },
+  {
+    "objectID": "projects/index.html#fedz1-package",
+    "href": "projects/index.html#fedz1-package",
+    "title": "Projects",
+    "section": "",
+    "text": "Presentation | Documetation\nThis is an R package. The objective of the fedz1 package is to provide easier access to Z1 data. The project is a web scrapping that brings more than twenty thousand datasets into one place. In addition to access to all data, users can use functions to explore tables, definitions, and the meaning of each series.(work in progress)"
+  },
+  {
+    "objectID": "projects/index.html#currency-crisis",
+    "href": "projects/index.html#currency-crisis",
+    "title": "Projects",
+    "section": "Currency Crisis",
+    "text": "Currency Crisis\n\nTable | Code\nI did this project for 2022 Table contest by Posit. The contest was about highlighting the many great ways people transform and present data."
+  },
+  {
+    "objectID": "visualization/index.html",
+    "href": "visualization/index.html",
+    "title": "Hamid Shafiezadeh",
+    "section": "",
+    "text": "Here are some examples that how I used visualization to tell my stories."
+  },
+  {
+    "objectID": "visualization/index.html#tale-of-two-crisis",
+    "href": "visualization/index.html#tale-of-two-crisis",
+    "title": "Hamid Shafiezadeh",
+    "section": "Tale of two crisis",
+    "text": "Tale of two crisis\n Link"
+  },
+  {
+    "objectID": "visualization/index.html#fed-balance-sheet",
+    "href": "visualization/index.html#fed-balance-sheet",
+    "title": "Visulaization",
+    "section": "Fed balance sheet",
+    "text": "Fed balance sheet"
+  },
+  {
+    "objectID": "visualization/index.html#a-dashboard-for-housing-indices",
+    "href": "visualization/index.html#a-dashboard-for-housing-indices",
+    "title": "Hamid Shafiezadeh",
+    "section": "A dashboard for housing indices",
+    "text": "A dashboard for housing indices"
+  },
+  {
+    "objectID": "visualization/index.html#a-dashboard-for-labor-and-inflation",
+    "href": "visualization/index.html#a-dashboard-for-labor-and-inflation",
+    "title": "Hamid Shafiezadeh",
+    "section": "A dashboard for labor and inflation",
+    "text": "A dashboard for labor and inflation"
+  },
+  {
+    "objectID": "visualization/index.html#a-dashboard-for-housing-indices-1",
+    "href": "visualization/index.html#a-dashboard-for-housing-indices-1",
+    "title": "Visulaization",
+    "section": "A dashboard for housing indices",
+    "text": "A dashboard for housing indices\n Presentation | Documetation"
+  },
+  {
+    "objectID": "projects/index.html#posit-table-contest",
+    "href": "projects/index.html#posit-table-contest",
+    "title": "Projects",
+    "section": "Posit Table Contest",
+    "text": "Posit Table Contest\n\nTable | Code\nI did this project for 2022 Table contest by Posit. The contest was about highlighting the many great ways people transform and present data."
+  },
+  {
+    "objectID": "projects/index.html#data-camp-contest",
+    "href": "projects/index.html#data-camp-contest",
+    "title": "Projects",
+    "section": "Data Camp Contest",
+    "text": "Data Camp Contest\n\nLink\nI did this project the data camp competition."
+  },
+  {
+    "objectID": "shiny/index.html",
+    "href": "shiny/index.html",
+    "title": "Hamid Shafiezadeh",
+    "section": "",
+    "text": "These are some of applications that I built with Shiny. Please click on each image to see the application."
+  },
+  {
+    "objectID": "shiny/index.html#mortgage-calculator",
+    "href": "shiny/index.html#mortgage-calculator",
+    "title": "Hamid Shafiezadeh",
+    "section": "Mortgage Calculator",
+    "text": "Mortgage Calculator"
+  },
+  {
+    "objectID": "shiny/index.html#an-analysis-of-home-sales-in-douglas-county-ne",
+    "href": "shiny/index.html#an-analysis-of-home-sales-in-douglas-county-ne",
+    "title": "Shiny Apps",
+    "section": "An analysis of home sales in Douglas county, NE",
+    "text": "An analysis of home sales in Douglas county, NE\n Link | Documetation"
+  },
+  {
+    "objectID": "shiny/index.html#cost-benefit-calculator",
+    "href": "shiny/index.html#cost-benefit-calculator",
+    "title": "Shiny Apps",
+    "section": "Cost-benefit calculator",
+    "text": "Cost-benefit calculator"
+  },
+  {
+    "objectID": "shiny/index.html#fed-balance-sheet",
+    "href": "shiny/index.html#fed-balance-sheet",
+    "title": "Hamid Shafiezadeh",
+    "section": "Fed balance sheet",
+    "text": "Fed balance sheet"
+  },
+  {
+    "objectID": "shiny/index.html#z1-account",
+    "href": "shiny/index.html#z1-account",
+    "title": "Hamid Shafiezadeh",
+    "section": "Z1 Account",
+    "text": "Z1 Account"
+  },
+  {
+    "objectID": "shiny/index.html#banks",
+    "href": "shiny/index.html#banks",
+    "title": "Hamid Shafiezadeh",
+    "section": "Banks",
+    "text": "Banks"
+  },
+  {
+    "objectID": "shiny/index.html#yield-curve",
+    "href": "shiny/index.html#yield-curve",
+    "title": "Hamid Shafiezadeh",
+    "section": "Yield Curve",
+    "text": "Yield Curve"
+  },
+  {
+    "objectID": "shiny/index.html#home-sales",
+    "href": "shiny/index.html#home-sales",
+    "title": "Hamid Shafiezadeh",
+    "section": "Home Sales",
+    "text": "Home Sales"
+  },
+  {
+    "objectID": "shiny/index.html#cost-benefit",
+    "href": "shiny/index.html#cost-benefit",
+    "title": "Shiny Apps",
+    "section": "Cost-benefit",
+    "text": "Cost-benefit\n Link | Documetation"
+  },
+  {
+    "objectID": "projects/index.html#posit-2022-table-contest",
+    "href": "projects/index.html#posit-2022-table-contest",
+    "title": "Projects",
+    "section": "Posit 2022 Table Contest",
+    "text": "Posit 2022 Table Contest\n\nTable | Code\nThe table shows the currency crisis around the world. Here, a currency crisis definition is a nominal depreciation of the currency by at least 30% versus the U.S Dollar in the first year, followed by at least a 5% decrease compared to the past year for the next five years. The third column of the table shows the end-of-period of the year the crisis started. Data for the official nominal bilateral U.S Dollar exchange rate is from the Bank for International Settlements(BIS)."
+  },
+  {
+    "objectID": "projects/index.html#loan-data",
+    "href": "projects/index.html#loan-data",
+    "title": "Projects",
+    "section": "Loan Data",
+    "text": "Loan Data\n\nLink\nThe purpose of this project is to explore a data of almost 10,000 borrowers to build a model for estimating the probability of default of borrowers."
+  },
+  {
+    "objectID": "visualization/index.html#fed-balance-sheet-qe-and-qt",
+    "href": "visualization/index.html#fed-balance-sheet-qe-and-qt",
+    "title": "Hamid Shafiezadeh",
+    "section": "Fed balance sheet, QE, and QT",
+    "text": "Fed balance sheet, QE, and QT"
+  }
+]

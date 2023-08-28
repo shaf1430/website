@@ -53,7 +53,7 @@
     "href": "visualization/index.html#tale-of-two-crisis",
     "title": "Hamid Shafiezadeh",
     "section": "Tale of two crisis",
-    "text": "Tale of two crisis\n Link"
+    "text": "Tale of two crisis\n Link | ggplot2"
   },
   {
     "objectID": "visualization/index.html#fed-balance-sheet",
@@ -193,7 +193,7 @@
     "href": "projects/index.html#probability-of-recession",
     "title": "Projects",
     "section": "Probability of Recession",
-    "text": "Probability of Recession\n\nLink\nThe purpose of this project is to apply current research to forecast probability of recession. (work in progress)"
+    "text": "Probability of Recession\n\nLink | tufte package\nThe purpose of this project is to apply current research to forecast probability of recession. (work in progress)"
   },
   {
     "objectID": "shiny/index.html#cost-benefit-analysis",
